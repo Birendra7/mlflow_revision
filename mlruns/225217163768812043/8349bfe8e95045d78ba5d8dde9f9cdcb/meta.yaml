@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/Desktop/Flask_project/mlFlow/mlflow_revison/mlruns/225217163768812043/8349bfe8e95045d78ba5d8dde9f9cdcb/artifacts
+end_time: 1739145089174
+entry_point_name: ''
+experiment_id: '225217163768812043'
+lifecycle_stage: active
+run_id: 8349bfe8e95045d78ba5d8dde9f9cdcb
+run_name: intrigued-dove-772
+run_uuid: 8349bfe8e95045d78ba5d8dde9f9cdcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739145083441
+status: 3
+tags: []
+user_id: lenovo
